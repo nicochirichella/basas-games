@@ -1,0 +1,23 @@
+{
+  "name": "basas-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicochirichella/basas-games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicochirichella/basas-games/issues"
+  },
+  "homepage": "https://github.com/nicochirichella/basas-games#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
