@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "tslint-config-airbnb": "^5.11.2"
+    "knex": "^0.21.1",
+    "pg": "^8.1.0"
   }
 }
