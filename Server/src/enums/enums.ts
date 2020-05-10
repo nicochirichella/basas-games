@@ -1,0 +1,1 @@
+export enum  EstadosPartidos {creada,iniciada,finalizada}
